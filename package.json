@@ -28,6 +28,7 @@
     "watch": "npm-watch"
   },
   "dependencies": {
+    "@faker-js/faker": "^4.1.0",
     "@babel/runtime": "^7.0.0",
     "bcrypt": "^5.0.1",
     "cheerio": "1.0.0-rc.2",
@@ -40,7 +41,7 @@
     "prerender-node": "^3.2.1",
     "probability-distributions": "^0.9.1",
     "remove-markdown": "^0.5.0",
-    "rosie": "^2.1.0",
+    "rosie": "^1.6.0",
     "shelljs": "^0.8.5",
     "showdown": "^1.9.1",
     "showdown-footnotes": "^2.1.2",
@@ -48,7 +49,6 @@
     "xss": "^1.0.0"
   },
   "devDependencies": {
-    "@faker-js/faker": "^4.1.0",
     "@meteorjs/eslint-config-meteor": "^1.0.5",
     "babel-eslint": "^7.2.3",
     "babel-plugin-module-resolver": "^3.0.0",
