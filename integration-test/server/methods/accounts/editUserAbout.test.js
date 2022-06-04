@@ -45,6 +45,7 @@ describe('method editUserAbout', function() {
   });
 
   it(`should success update user.about`, function() {
+    console.log('eeeeeeeeeeeeeeeeeeeeeeeeeeeee');
     runEditUserAbout().must.not.throw();
 
     const user = Meteor.users.findOne(userId);
