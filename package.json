@@ -36,7 +36,7 @@
     "image-type": "^4.1.0",
     "katex": "^0.9.0",
     "mathml-tag-names": "^3.0.2",
-    "meteor-node-stubs": "^1.2.3",
+    "meteor-node-stubs": "^1.2.24",
     "opencollective": "^1.0.3",
     "prerender-node": "^3.5.0",
     "probability-distributions": "^0.9.1",
