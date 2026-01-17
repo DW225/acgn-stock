@@ -30,7 +30,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "@faker-js/faker": "6.3.1",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cheerio": "1.0.0-rc.2",
     "common-tags": "^1.8.2",
     "image-type": "^4.1.0",
